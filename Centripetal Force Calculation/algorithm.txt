@@ -1,1 +1,8 @@
-
+1. Start.
+2. Input mass_g, velocity_kmh, radius_km.
+3. Calculate mass_kg mass_g/1000.0.
+4. Calculate velocity_ms velocity_kmh / 3.6.
+5. Calculate radius_m radius_km 1000.0.
+6. Calculate $Force = (mass\_kg \times velocity\_ms \times velocity\_ms)/radius\_m$.
+7. Display Force in Newtons.
+8. Stop.
