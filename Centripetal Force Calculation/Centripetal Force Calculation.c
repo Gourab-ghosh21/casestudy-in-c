@@ -4,3 +4,6 @@ int main()
     float mass_kg, velocity_ms, radius_m, force;
      printf("Enter mass (grams): ");
     scanf("%f", &mass_g);
+
+printf("Enter velocity (km/h): ");
+    scanf("%f", &velocity_kmh);
