@@ -1,1 +1,11 @@
-
+Start
+  |
+Input start_hour, delay_hours
+  |
+raw_sum = start_hour + delay_hours
+  |
+final_hour = raw_sum % 24
+  |
+Display final_hour
+  |
+Stop
