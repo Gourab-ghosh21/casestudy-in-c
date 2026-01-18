@@ -18,3 +18,5 @@ printf("Enter velocity (km/h): ");
  force = (mass_kg * velocity_ms * velocity_ms) / radius_m;
 
     printf("Centripetal Force = %.2f N\n", force);
+return 0:
+    }
