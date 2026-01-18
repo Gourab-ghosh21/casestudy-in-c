@@ -10,3 +10,7 @@ printf("Enter velocity (km/h): ");
 
  printf("Enter radius (km): ");
     scanf("%f", &radius_km);
+
+ mass_kg = mass_g / 1000.0;
+    velocity_ms = velocity_kmh / 3.6;
+    radius_m = radius_km * 1000.0;
