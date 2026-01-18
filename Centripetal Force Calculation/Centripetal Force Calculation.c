@@ -7,3 +7,6 @@ int main()
 
 printf("Enter velocity (km/h): ");
     scanf("%f", &velocity_kmh);
+
+ printf("Enter radius (km): ");
+    scanf("%f", &radius_km);
