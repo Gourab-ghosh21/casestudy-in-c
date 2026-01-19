@@ -1,1 +1,6 @@
-start
+1. start
+2. Input start_hour and delay_hours.
+3. Calculate raw sum start hour delay hours.
+4. Calculate final_hour raw sum % 24.
+5. Display final_hour.
+6. Stop
