@@ -4,3 +4,5 @@ int main()
 
     printf("Enter start hour (0-23): ");
 scanf("%d", &start_hour);
+ printf("Enter delay hours: ");
+    scanf("%d", &delay_hours);
