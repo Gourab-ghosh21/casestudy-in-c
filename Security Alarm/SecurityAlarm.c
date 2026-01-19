@@ -8,3 +8,5 @@ scanf("%d", &start_hour);
     scanf("%d", &delay_hours);
     raw_sum = start_hour + delay_hours;
     final_hour = raw_sum % 24;
+    raw_sum = start_hour + delay_hours;
+    final_hour = raw_sum % 24;
