@@ -8,5 +8,7 @@ scanf("%d", &start_hour);
     scanf("%d", &delay_hours);
     raw_sum = start_hour + delay_hours;
     final_hour = raw_sum % 24;
-    raw_sum = start_hour + delay_hours;
-    final_hour = raw_sum % 24;
+    printf("Alarm will ring at hour: %d\n", final_hour);
+
+    return 0;
+}
