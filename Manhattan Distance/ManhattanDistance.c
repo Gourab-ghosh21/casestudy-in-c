@@ -10,3 +10,5 @@ printf("Enter x2 y2: ");
     scanf("%d %d", &x2, &y2);
 dx = x2 - x1;
 dy = y2 - y1;
+ abs_dx = sqrt(dx * dx);
+    abs_dy = sqrt(dy * dy);
