@@ -15,3 +15,5 @@ dy = y2 - y1;
 total_distance = abs_dx + abs_dy;
 
     printf("Manhattan Distance = %.2f\n", total_distance);
+ return 0;
+}
