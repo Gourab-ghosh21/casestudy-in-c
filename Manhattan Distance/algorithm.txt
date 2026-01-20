@@ -1,1 +1,82 @@
 
+Start
+
+Input x1, y1, x2, y2
+
+Calculate difference in x-coordinates:
+dx = x2 − x1
+
+Calculate difference in y-coordinates:
+dy = y2 − y1
+
+Calculate absolute value of dx:
+abs_dx = sqrt(dx × dx)
+
+Calculate absolute value of dy:
+abs_dy = sqrt(dy × dy)
+
+Calculate Manhattan distance:
+total_distance = abs_dx + abs_dy
+
+Display total_distance
+
+Stop
+
+✅ Algorithm – Case Study 4: Convert Seconds to H:M:S
+
+Start
+
+Input total_seconds
+
+Calculate hours:
+hours = total_seconds / 3600
+
+Calculate remaining seconds:
+remaining = total_seconds % 3600
+
+Calculate minutes:
+minutes = remaining / 60
+
+Calculate seconds:
+seconds = remaining % 60
+
+Display hours, minutes, and seconds
+
+Stop
+
+✅ Algorithm – Case Study 5: Truncate Float to Two Decimal Places
+
+Start
+
+Input raw_balance
+
+Multiply balance by 100:
+temp = raw_balance × 100
+
+Convert to integer to remove decimals:
+integer_part = (int) temp
+
+Divide by 100 to restore decimal places:
+final_balance = integer_part / 100
+
+Display final_balance
+
+Stop
+
+📌 These algorithms are:
+
+✔ Simple
+✔ Correct
+✔ Suitable for lab records, exams, and assignments
+
+If you want, I can also:
+
+Put them into DOCX / PDF
+
+Simplify wording for short-answer exams
+
+Add flowchart symbols explanation
+
+Just tell me 😊
+
+Do you like this personality?
