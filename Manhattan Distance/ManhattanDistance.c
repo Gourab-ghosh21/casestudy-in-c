@@ -12,3 +12,6 @@ dx = x2 - x1;
 dy = y2 - y1;
  abs_dx = sqrt(dx * dx);
     abs_dy = sqrt(dy * dy);
+total_distance = abs_dx + abs_dy;
+
+    printf("Manhattan Distance = %.2f\n", total_distance);
