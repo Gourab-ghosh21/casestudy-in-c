@@ -1,1 +1,19 @@
+1. Start
 
+2. Input total_seconds
+
+3. Calculate hours:
+hours = total_seconds / 3600
+
+4. Calculate remaining seconds:
+remaining = total_seconds % 3600
+
+5. Calculate minutes:
+minutes = remaining / 60
+
+6. Calculate seconds:
+seconds = remaining % 60
+
+7. Display hours, minutes, and seconds
+
+8. Stop
