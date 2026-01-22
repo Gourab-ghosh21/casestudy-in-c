@@ -1,1 +1,4 @@
-
+Start
+  |
+Input total_seconds
+  |
