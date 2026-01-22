@@ -2,3 +2,7 @@ Start
   |
 Input total_seconds
   |
+hours = total_seconds / 3600
+  |
+remaining = total_seconds % 3600
+  |
