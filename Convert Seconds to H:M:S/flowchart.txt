@@ -10,3 +10,6 @@ minutes = remaining / 60
   |
 seconds = remaining % 60
   |
+Display hours, minutes, seconds
+  |
+Stop
