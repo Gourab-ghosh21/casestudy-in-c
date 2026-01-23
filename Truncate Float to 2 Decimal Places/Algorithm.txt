@@ -1,1 +1,16 @@
+Start
 
+Input raw_balance
+
+Multiply balance by 100:
+temp = raw_balance × 100
+
+Convert to integer to remove decimals:
+integer_part = (int) temp
+
+Divide by 100 to restore decimal places:
+final_balance = integer_part / 100
+
+Display final_balance
+
+Stop
