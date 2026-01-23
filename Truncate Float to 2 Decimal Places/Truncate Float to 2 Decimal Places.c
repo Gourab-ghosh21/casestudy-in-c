@@ -6,3 +6,5 @@ int main()
     int integer_part;
  printf("Enter raw balance: ");
     scanf("%f", &raw_balance);
+temp = raw_balance * 100;
+    integer_part = (int) temp;
