@@ -9,3 +9,4 @@ int main()
 temp = raw_balance * 100;
     integer_part = (int) temp;
  final_balance = integer_part / 100.0;
+printf("Truncated Balance = %.2f\n", final_balance);
