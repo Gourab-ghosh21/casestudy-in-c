@@ -16,3 +16,4 @@ printf("Enter type, guests, age, day: ");
         price += price * 0.05;
 printf("Total Price = %.2f\n", price);
     return 0;
+}
