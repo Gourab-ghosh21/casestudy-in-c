@@ -11,3 +11,5 @@ bool fireAlarm, batteryMode;
         printf("O\n");
 else if (fireAlarm)
         printf("E\n");
+else if (batteryMode && currentWeight > maxLimit / 2)
+        printf("N\n");
