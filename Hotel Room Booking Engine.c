@@ -9,3 +9,4 @@ printf("Enter type, guests, age, day: ");
  price = (type == 1) ? 1000 : 1800;
  if (type == 1 && guests > 1 && age >= 5)
         price += (guests - 1) * 500;
+ 
