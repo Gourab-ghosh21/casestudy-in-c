@@ -13,3 +13,5 @@ else if (fireAlarm)
         printf("E\n");
 else if (batteryMode && currentWeight > maxLimit / 2)
         printf("N\n");
+ else if (trips > 5000)
+        printf("S\n");
