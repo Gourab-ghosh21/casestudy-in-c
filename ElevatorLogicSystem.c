@@ -9,3 +9,5 @@ bool fireAlarm, batteryMode;
 
     if (currentWeight > maxLimit)
         printf("O\n");
+else if (fireAlarm)
+        printf("E\n");
