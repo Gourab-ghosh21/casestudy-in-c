@@ -10,3 +10,5 @@ printf("Enter type, guests, age, day: ");
  if (type == 1 && guests > 1 && age >= 5)
         price += (guests - 1) * 500;
  
+ if (day == 6 || day == 7)
+        price += price * 0.15;
