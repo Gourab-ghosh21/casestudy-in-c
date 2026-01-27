@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+  
 int main() {
     int age;
     double income, tax = 0;
