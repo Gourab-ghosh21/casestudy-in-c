@@ -1,6 +1,6 @@
 #include <stdio.h> b
     
-int main() { 
+int main() {  
     int age;
     double income, tax = 0;
  
