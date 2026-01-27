@@ -16,7 +16,7 @@ int main() {
             tax = income * 0.15;
         else
             tax = income * 0.30;
-
+ 
         if (income > 2000000)
             tax += tax * 0.05;
 
