@@ -3,7 +3,7 @@
 int main() { 
     int age;
     double income, tax = 0;
-
+ 
     printf("Enter age and income: ");
     scanf("%d %lf", &age, &income);
 
