@@ -22,7 +22,6 @@ int main() {
         if (age > 60)
             tax -= 2000;
     }
-
     if (tax < 0) tax = 0;
     printf("Tax = %.2lf\n", tax);
     return 0;
