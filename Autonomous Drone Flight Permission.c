@@ -8,3 +8,5 @@ bool isNoFlyZone, adminOverride;
 printf("Enter weather, battery, cargoWeight, noFlyZone, adminOverride: ");
     scanf("%d %d %f %d %d", &weather, &battery, &cargoWeight,
           &isNoFlyZone, &adminOverride);
+ if (isNoFlyZone) {
+        printf("0\n");
