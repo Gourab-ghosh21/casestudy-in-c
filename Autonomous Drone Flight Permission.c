@@ -10,3 +10,5 @@ printf("Enter weather, battery, cargoWeight, noFlyZone, adminOverride: ");
           &isNoFlyZone, &adminOverride);
  if (isNoFlyZone) {
         printf("0\n");
+ } else if (adminOverride) {
+        printf("1\n");
