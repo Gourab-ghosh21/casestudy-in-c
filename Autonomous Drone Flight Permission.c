@@ -14,3 +14,5 @@ printf("Enter weather, battery, cargoWeight, noFlyZone, adminOverride: ");
         printf("1\n");
 } else if (weather == 3) {
         printf("0\n");
+ } else if (weather == 2 && (battery <= 80 || cargoWeight >= 2.0)) {
+        printf("0\n");
