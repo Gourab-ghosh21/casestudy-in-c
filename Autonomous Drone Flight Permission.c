@@ -3,3 +3,5 @@
 int main()
 { int weather;
 int battery;
+float cargoweight;
+
