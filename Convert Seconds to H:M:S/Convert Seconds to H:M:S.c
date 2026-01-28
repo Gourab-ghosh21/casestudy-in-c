@@ -12,6 +12,6 @@ seconds = remaining % 60;
   
     printf("Time = %d Hours %d Minutes %d Seconds\n",hours, minutes, seconds);
 return 0;
-}
+} 
  
  
