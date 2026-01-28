@@ -19,3 +19,5 @@ printf("Enter weather, battery, cargoWeight, noFlyZone, adminOverride: ");
 } else {
         printf("1\n");
     }
+return 0;
+}
