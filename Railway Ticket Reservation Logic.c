@@ -13,3 +13,4 @@ if (month == 5 || month == 12)
 price *= 0.50;
   else if (quota == 'S' && coach == 2)
 price *= 0.70;
+printf("Final Price = %.2f\n", price);
