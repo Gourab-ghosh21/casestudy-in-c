@@ -12,3 +12,4 @@ if (month == 5 || month == 12)
   if (quota == 'M')
 price *= 0.50;
   else if (quota == 'S' && coach == 2)
+price *= 0.70;
