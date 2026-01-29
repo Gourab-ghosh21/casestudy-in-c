@@ -10,3 +10,4 @@ scanf("%d %c %d", &coach, &quota, &month);
 if (month == 5 || month == 12)
  price += price * 0.20;
   if (quota == 'M')
+price *= 0.50;
