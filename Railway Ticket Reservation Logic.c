@@ -15,3 +15,4 @@ price *= 0.50;
 price *= 0.70;
 printf("Final Price = %.2f\n", price);
  return 0;
+}
