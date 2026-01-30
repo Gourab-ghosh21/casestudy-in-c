@@ -4,3 +4,4 @@ int main()
 { double carValue, premium;
   int accidents, age;
  bool airbags, abs;
+   printf("Enter carValue, accidents, age, airbags, abs: ");
