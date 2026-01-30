@@ -3,3 +3,4 @@
 int main()
 { double carValue, premium;
   int accidents, age;
+ bool airbags, abs;
