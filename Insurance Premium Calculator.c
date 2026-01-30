@@ -9,3 +9,4 @@ int main()
  premium = carValue * 0.05;
 if (accidents == 0)
 premium *= 0.80;
+   else if (accidents > 2)
