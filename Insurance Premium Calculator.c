@@ -10,3 +10,4 @@ int main()
 if (accidents == 0)
 premium *= 0.80;
    else if (accidents > 2)
+premium *= 1.50;
