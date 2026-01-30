@@ -8,3 +8,4 @@ int main()
  scanf("%lf %d %d %d %d", &carValue, &accidents, &age, &airbags, &abs);
  premium = carValue * 0.05;
 if (accidents == 0)
+premium *= 0.80;
