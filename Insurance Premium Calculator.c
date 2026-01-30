@@ -5,3 +5,4 @@ int main()
   int accidents, age;
  bool airbags, abs;
    printf("Enter carValue, accidents, age, airbags, abs: ");
+ scanf("%lf %d %d %d %d", &carValue, &accidents, &age, &airbags, &abs);
