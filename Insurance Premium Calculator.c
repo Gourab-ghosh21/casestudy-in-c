@@ -13,3 +13,4 @@ premium *= 0.80;
 premium *= 1.50;
   if (age < 25)
  premium += 2000;
+ if (airbags && abs)
