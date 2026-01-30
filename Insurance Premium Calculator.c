@@ -17,3 +17,4 @@ premium *= 1.50;
 premium -= 1000;
  printf("Premium = %.2lf\n", premium);
 return 0;
+}
