@@ -16,3 +16,4 @@ premium *= 1.50;
  if (airbags && abs)
 premium -= 1000;
  printf("Premium = %.2lf\n", premium);
+return 0;
