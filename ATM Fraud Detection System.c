@@ -5,3 +5,4 @@ int main()
 int pinAttempts, locationCode, homeCode;
  double amount, dailyTotal;
 bool isHighTrustUser;
+ printf("Enter pinAttempts, amount, dailyTotal, trust, location, home: ");
