@@ -6,4 +6,5 @@ int pinAttempts, locationCode, homeCode;
  double amount, dailyTotal;
 bool isHighTrustUser;
  printf("Enter pinAttempts, amount, dailyTotal, trust, location, home: ");
-scanf("%d %lf %lf %d %d %d", &pinAttempts, &amount,
+scanf("%d %lf %lf %d %d %d", &pinAttempts, &amount,&dailyTotal, &isHighTrustUser, &locationCode, &homeCode);
+
