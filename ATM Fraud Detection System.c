@@ -13,3 +13,4 @@ scanf("%d %lf %lf %d %d %d", &pinAttempts, &amount,&dailyTotal, &isHighTrustUser
 else if (dailyTotal + amount > 100000)
  printf("L\n");
   else if (amount > 50000 && !isHighTrustUser)
+ printf("D\n");
