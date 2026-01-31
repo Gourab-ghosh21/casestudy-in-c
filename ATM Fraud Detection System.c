@@ -17,3 +17,4 @@ else if (dailyTotal + amount > 100000)
  else if (locationCode != homeCode && amount > 10000)
  printf("V\n");
 else
+printf("A\n");
