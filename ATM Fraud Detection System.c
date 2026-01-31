@@ -4,3 +4,4 @@ int main()
 {
 int pinAttempts, locationCode, homeCode;
  double amount, dailyTotal;
+bool isHighTrustUser;
