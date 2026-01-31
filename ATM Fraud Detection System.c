@@ -9,3 +9,4 @@ bool isHighTrustUser;
 scanf("%d %lf %lf %d %d %d", &pinAttempts, &amount,&dailyTotal, &isHighTrustUser, &locationCode, &homeCode);
 
  if (pinAttempts > 3)
+  printf("L\n");
