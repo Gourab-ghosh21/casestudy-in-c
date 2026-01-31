@@ -14,3 +14,4 @@ else if (dailyTotal + amount > 100000)
  printf("L\n");
   else if (amount > 50000 && !isHighTrustUser)
  printf("D\n");
+ else if (locationCode != homeCode && amount > 10000)
