@@ -19,3 +19,4 @@ else if (dailyTotal + amount > 100000)
 else
 printf("A\n");
  return 0;
+}
