@@ -4,3 +4,4 @@
 int main() {
 double currentPrice, targetPrice, walletBalance;
 int amount, volatility, hour;
+bool isWhale;
