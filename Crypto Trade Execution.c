@@ -16,3 +16,4 @@ else if (walletBalance < amount * currentPrice)
 {
 printf("0\n");
 }
+else if (volatility > 8 && !isWhale)
