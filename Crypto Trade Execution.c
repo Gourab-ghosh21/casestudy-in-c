@@ -9,3 +9,5 @@ printf("Enter currentPrice, targetPrice, balance, amount, volatility, hour, whal
   scanf("%lf %lf %lf %d %d %d %d", &currentPrice, &targetPrice,
           &walletBalance, &amount, &volatility, &hour, &isWhale);
   if (hour >= 0 && hour <= 4)
+{
+printf("0\n");
