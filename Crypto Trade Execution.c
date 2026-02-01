@@ -23,3 +23,4 @@ else if (volatility > 8 && !isWhale)
  else
  printf("0\n");
  return 0;
+}
