@@ -21,3 +21,4 @@ else if (volatility > 8 && !isWhale)
   else if (currentPrice < targetPrice)
    printf("1\n");
  else
+ printf("0\n");
