@@ -2,3 +2,4 @@
 #include <stdbool.h>
 
 int main() {
+double currentPrice, targetPrice, walletBalance;
