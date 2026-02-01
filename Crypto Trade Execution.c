@@ -13,3 +13,6 @@ printf("Enter currentPrice, targetPrice, balance, amount, volatility, hour, whal
 printf("0\n");
 }
 else if (walletBalance < amount * currentPrice)
+{
+printf("0\n");
+}
