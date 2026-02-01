@@ -11,3 +11,4 @@ printf("Enter currentPrice, targetPrice, balance, amount, volatility, hour, whal
   if (hour >= 0 && hour <= 4)
 {
 printf("0\n");
+}
